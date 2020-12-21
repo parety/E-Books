@@ -25,7 +25,7 @@
 
 
 
-### 3、阿秀个人**C++**学习笔记与资料
+### 3、阿秀个人学习笔记与资料
 
 #### [能拿BAT、TMD等国内互联网大厂的C++学习过程分享~](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247483953&idx=1&sn=a0a6b338185bfee8e3538bdfbf58e55c&chksm=ce25fe4cf952775a519c82f0f6e208f5762c97ed11511670ebec6c21cacd575af74e49397969&scene=178&cur_album_id=1645997439675367425#rd)
 

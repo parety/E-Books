@@ -1,6 +1,22 @@
 # E-Books
 
-本仓库无偿分享各种计算机书籍、各种专业PDF资料以及个人刷题笔记资料等。
+本仓库无偿分享各种计算机书籍、各种专业PDF资料以及个人刷题笔记资料等，所有权归仓库作者**阿秀**所有，如有疑问提请issue或者联系本人forthespada@foxmail.com，感谢~
+
+
+
+本仓库永远免费分享给有需要的人，在此承诺**永不收费**，希望自己的辛勤结晶能够帮助到曾经那些像我一样的小白、新手、在校生们！
+
+
+
+### 牛客网个人精品专栏
+
+#### 1、[汇集牛客高赞解法的67道剑指offer](https://blog.nowcoder.net/zhuanlan/qmGzR0)
+
+#### 2、[如何打造个人的完美简历](https://blog.nowcoder.net/zhuanlan/gmPq1j)
+
+
+
+## 互联网资源分享
 
 ### 1、各类型计算机PDF书籍
 
@@ -38,6 +54,21 @@
 
 链接：https://pan.baidu.com/s/1yA21BBozuLJSdT-1F0CYaw 
 提取码：bc4m 
+
+
+
+![关注我不迷路](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.1.1/指纹添加公众号.png)
+
+​                                                                                  关注阿秀不迷路
+
+<p style="text-align:center;color:#1e819e;font-size:1.8em;font-weight: bold;">
+“你只管努力，剩下的交给时间就好，我就是活生生的例子~”
+
+
+
+
+
+
 
 
 

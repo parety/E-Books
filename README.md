@@ -14,7 +14,7 @@
 
 #### 2、[如何打造个人的完美简历](https://blog.nowcoder.net/zhuanlan/gmPq1j)
 
-
+![自己写的专栏上头条了](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.1.4.0/某乎问题图床/专栏上头条.jpg)
 
 
 

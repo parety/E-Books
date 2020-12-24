@@ -52,7 +52,9 @@
 
 
 
-### 4、三本院校到斩获字节跳动Data后端研发的Java学习路线
+### 4、英雄不问出处，三本又何妨！三本也能进互联网大厂
+
+#### [三本出身最终斩获字节跳动后端研发Offer的Java人生之旅](https://mp.weixin.qq.com/s/3xXGQZpnVXZ48R7Z9mvQkQ)
 
 链接：https://pan.baidu.com/s/1NueJoHKNdEprMr5UpARAAg 
 提取码：8gqk 
